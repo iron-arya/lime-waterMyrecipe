@@ -1,0 +1,1 @@
+lime,water,salt,jeera powder,sugar,ginger(optional)
